@@ -6,9 +6,6 @@ Welcome to the Chat with MySQL project! This repository contains a project that 
 
 The Chat with MySQL project aims to simplify interactions with relational databases by allowing users to query and manipulate the database using natural language. This is achieved using LangChain, an advanced framework for building language models, in combination with the Mistral 7B instruct model, which provides robust natural language understanding capabilities.
 
-## Introduction
-
-The Chat with MySQL project aims to simplify interactions with relational databases by allowing users to query and manipulate the database using natural language. This is achieved using LangChain, an advanced framework for building language models, in combination with the Mistral 7B instruct model, which provides robust natural language understanding capabilities.
 
 ## Features
 
